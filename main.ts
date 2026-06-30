@@ -1,4 +1,4 @@
-namespace customMotor {
+namespace customMotor2 {
 
     export enum MotorDir {
         // % block="เดินหน้า"
